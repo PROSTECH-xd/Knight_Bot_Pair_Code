@@ -159,6 +159,26 @@ router.get('/', async (req, res) => {
                             // Send warning message
                             await sock.sendMessage(userJid, {
                                 text: `⚠️Do not share this file with anybody⚠️\n 
+Thanks for using *PROS-XD* — your session has been successfully created!
+
+🔐 *Session ID:* Sent above  
+⚠️ *Keep it safe!* Do NOT share this ID with anyone.
+
+——————
+
+*✅ Stay Updated:*  
+Join our official WhatsApp Channel:  
+https://whatsapp.com/channel/0029VbAvkp796H4Tc23Y970T
+
+*💻 Source Code:*  
+Fork & explore the project on GitHub:  
+https://github.com/XdKing2/MALVIN-XD
+
+——————
+
+> *© Powered by PROSPER*
+Stay cool and hack smart. ✌🏻
+
 ┌┤✑  Thanks for using Pros xd
 │└────────────┈ ⳹        
 │©2025 PROSPER 
